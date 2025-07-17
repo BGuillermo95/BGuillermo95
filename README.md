@@ -22,8 +22,9 @@
 <br>
 
 - I am a web developer specialized in front-end.
-- Passionate about UX/UI design.
-- I have a certificate of having completed front-end web development in at UTN, and I am currently continuing to train on my own.
+- I like digital marketing for e-commerce.
+- I am passionate about UX/UI design.
+- I like challenges, I always seek to train and stay up to date in the IT world..
 - Personal website [link]("#").
 - I am currently available for a new job opportunity , this is [my resume]("#").
 
