@@ -25,8 +25,8 @@
 - I like digital marketing for e-commerce.
 - I am passionate about UX/UI design.
 - I like challenges, I always seek to train and stay up to date in the IT world..
-- Personal website [link]("https://bguillermo95.github.io/BGQV-PORTAFOLIO/HTML/").
-- I am currently available for a new job opportunity , this is [my resume]("#").
+- Personal website [link](https://bguillermo95.github.io/BGQV-PORTAFOLIO/HTML/).
+- I am currently available for a new job opportunity , this is [my resume](https://bguillermo95.github.io/BGQV-PORTAFOLIO/HTML/).
 
 <br><br>
 
